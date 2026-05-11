@@ -22,8 +22,10 @@ As ever, more data is needed. At time of writing, only two 5-syllable Chukchansi
 
 ## Repository Contents
 
-You can read the paper as a [PDF](/Ling%20242%20Term%20Paper%20-%20Automated%20Light-Heavy%20Detection%20&%20Stress%20Analysis%20in%20Longer%20Chukchansi%20Words.docx) or [Word Doc](/Ling%20242%20Term%20Paper%20-%20Automated%20Light-Heavy%20Detection%20&%20Stress%20Analysis%20in%20Longer%20Chukchansi%20Words.pdf) directly from this repo. Citation:
-> Adisasmito-Smith, N. (2026). Automated Light-Heavy Detection & Stress Analysis in Longer Chukchansi Words.
+You can read the paper as a [PDF](/Ling%20242%20Term%20Paper%20-%20Automated%20Light-Heavy%20Detection%20&%20Stress%20Analysis%20in%20Longer%20Chukchansi%20Words.pdf) or [Word Doc](/Ling%20242%20Term%20Paper%20-%20Automated%20Light-Heavy%20Detection%20&%20Stress%20Analysis%20in%20Longer%20Chukchansi%20Words.docx) directly from this repo. Citation:
+```
+Adisasmito-Smith, N. (2026). Automated Light-Heavy Detection & Stress Analysis in Longer Chukchansi Words.
+```
 
 Both the [dataset](/Ling%20242%20Term%20Paper%20-%20Dataset.xlsx) and the [code](/chukchansi-sylls.py) are free to use under the [MIT Liscence](https://choosealicense.com/licenses/mit/).
 
